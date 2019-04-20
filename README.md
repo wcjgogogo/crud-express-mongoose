@@ -6,9 +6,8 @@
 **router.js:路由文件
 ***处理不同请求的路由
 
-**student.js:数据文件，只关心数据，不关心业务
+**student.js:mongodb类似于mysql，是一个数据库，将学生数据存放在mongodb
 
-**db.json:存放数据
 
 index.html:渲染学生的页面
 new.html:添加学生的页面
